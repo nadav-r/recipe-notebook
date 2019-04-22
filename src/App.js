@@ -38,7 +38,7 @@ class App extends Component {
     
     return (
       <div className="container">
-        <h1 className="text-primary text-center mt-3" >My Recipe Notebook</h1>
+        <h1 className="text-dark text-center mt-3"  >My Recipe Notebook</h1>
         <div className = 'list-group'>
           <RecipesList recipes = {this.state.recipes} deleteRecipe={this.deleteRecipe}/>
         </div>

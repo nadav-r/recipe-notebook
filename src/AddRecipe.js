@@ -32,7 +32,7 @@ class AddRecipe extends Component{
 		}
 		this.props.addRecipe(recipe);
 		this.clearFields();
-		this.state.showing=false;
+		this.state.showing=false;//use setState() !!!
 	}
 
 	clearFields = ()=>{
