@@ -3,7 +3,7 @@ A project that started as an exercise in react.
 It is a single page app that lets the user insert recipes and browse through them. 
 
 ## Possible Additions:
-Create a login page and building a backend that manage the users' list and recipes.
+Create a login page and building a backend that manages the users' list and recipes.
 
 
 
